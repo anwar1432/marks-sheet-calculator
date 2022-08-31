@@ -1,0 +1,11 @@
+body{
+word-spacing: 10rem;
+    border: 2px solid black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+body h1{
+word-spacing: 20px !important;
+color: rgb(25, 0, 255);
+}
